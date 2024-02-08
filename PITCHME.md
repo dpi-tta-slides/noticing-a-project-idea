@@ -16,8 +16,14 @@ _paginate: false
 - Remember, the verb you want to be using with respect to ideas is *not* "think up" but "notice." https://paulgraham.com/startupideas.html
 
 ---
+<!-- IQ vs Point of View vs Knowledge -->
 
-<!-- TODO: river -->
+<!-- POV is worth 100 IQ pointslin -->
+---
+
+<!-- TODO: river, mind's eye, culture, perspective -->
+
+---
 
 <!-- TODO: gretzky theory -->
 

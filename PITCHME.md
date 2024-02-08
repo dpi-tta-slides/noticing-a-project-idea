@@ -107,6 +107,6 @@ Jared also talks about some ways to come up with ideas:
 - Something like [this](https://docs.google.com/spreadsheets/d/1jrgdMMt33lIGqXTEu8vE2fwLjoMkzyJAPlZuKLihvuQ/edit#gid=0) (thanks Thierry!)
 
 ---
-
+# Assignment
 - Please submit your proposal(s) including answers/scores/rankings to some of these key questions on a spreadsheet.
 - Don't hesitate to reach out for a 1on1 with an instructor, TA, or fellow trainee and talk through what you are thinking.

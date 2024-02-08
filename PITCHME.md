@@ -1,7 +1,6 @@
 ---
 marp: true
 title: Noticing a Project Idea
-theme: uncover
 transition: fade
 paginate: true
 _paginate: false
@@ -19,17 +18,19 @@ _paginate: false
 ---
 
 - I recommend watching this video on [How to Get and Evaluate Startup Ideas](https://www.youtube.com/watch?v=Th8JoIan4dg)
-- In this video Jared talks about some key questions to ask about any startup idea:
+- In this video Jared talks about some key questions to ask about any startup idea
 
 ---
 
 # Are you the right person to solve this?
-- is this a field you have an expertise or insight?
+- Is this a field you have an expertise or insight?
+- Think about your previous experiences and work. You may be uniquely suited to identify, understand, and solve a problem.
 
 ---
 
 # How big is the market?
 - Do a lot of people have this problem?
+- More is better. This has implications for how much you need to charge.
 
 ---
 
@@ -39,10 +40,13 @@ _paginate: false
     - daily/weekly/monthly/yearly
     - more often is better
 
+<!-- eg uber: I need to get places multiple times a day -->
+<!-- buying a house: once a lifetime maybe? -->
+
 ---
 
 # Do you have competition?
-- this might be a good sign!
+- This might be a good sign! Competition *might* validate that this is a real problem.
 
 ---
 # Do you want this?

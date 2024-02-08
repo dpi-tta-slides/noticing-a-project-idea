@@ -10,10 +10,16 @@ _paginate: false
 
 ---
 
-- What pain point do you want to address?
-- How do you plan to solve it?
-- Remember, the verb you want to be using with respect to ideas is *not* "think up" but "notice."
-- https://paulgraham.com/startupideas.html
+- Your proposal should answer 2 questions:
+    1. What pain point do you want to address?
+    2. How do you plan to solve it?
+- Remember, the verb you want to be using with respect to ideas is *not* "think up" but "notice." https://paulgraham.com/startupideas.html
+
+---
+
+<!-- TODO: river -->
+
+<!-- TODO: gretzky theory -->
 
 ---
 
@@ -30,7 +36,9 @@ _paginate: false
 
 # How big is the market?
 - Do a lot of people have this problem?
-- More is better. This has implications for how much you need to charge.
+- More is better. 
+<!-- pricing -->
+<!-- difficuly in finding users / customers -->
 
 ---
 
@@ -46,7 +54,8 @@ _paginate: false
 ---
 
 # Do you have competition?
-- This might be a good sign! Competition *might* validate that this is a real problem.
+- This might be a good sign!
+- Competition *might* validate that this is a real problem.
 
 ---
 # Do you want this?
@@ -56,8 +65,8 @@ _paginate: false
 ---
 
 # Did this recently become possible or necessary?
-- Is there something about the world that has changed recently that has created an opportunity?
-- new technology, law, problem, etc.
+- Has something about the world changed recently?
+- New technology, law, problem, etc.
 
 ---
 # Is this an idea you'd want to work on for years?
@@ -91,9 +100,13 @@ Jared also talks about some ways to come up with ideas:
 ---
 
 - Remember, we're just building fun learning projects. I don't expect you to change the world,... yet. 😅
-- I recommend you start writing down ideas you notice organically and rank them on these key questions. Something like thisLinks to an external site..
 
 ---
 
-- Please submit your proposal(s) including answers/scores to some of these key questions. A link to a Google Sheet or other online spreadsheet is best.
+- I recommend you start writing down ideas you notice organically and rank them on these key questions.
+- Something like [this](https://docs.google.com/spreadsheets/d/1jrgdMMt33lIGqXTEu8vE2fwLjoMkzyJAPlZuKLihvuQ/edit#gid=0) (thanks Thierry!)
+
+---
+
+- Please submit your proposal(s) including answers/scores/rankings to some of these key questions on a spreadsheet.
 - Don't hesitate to reach out for a 1on1 with an instructor, TA, or fellow trainee and talk through what you are thinking.

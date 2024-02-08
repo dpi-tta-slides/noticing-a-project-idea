@@ -1,76 +1,95 @@
 ---
 marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
+title: Noticing a Project Idea
 theme: uncover
 transition: fade
 paginate: true
 _paginate: false
 ---
 
-![bg opacity](./assets/gradient.jpg)
-
-# <!--fit--> Marp CLI example
-
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
-
-<style scoped>a { color: #36c; }</style>
-
-<!-- This is presenter note. You can write down notes through HTML comment. -->
+# Noticing a Project Idea 🤔
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+- What pain point do you want to address?
+- How do you plan to solve it?
+- Remember, the verb you want to be using with respect to ideas is *not* "think up" but "notice."
+- https://paulgraham.com/startupideas.html
 
 ---
 
-<!-- _backgroundColor: "#123" -->
-<!-- _color: "#fff" -->
-
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
-
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+- I recommend watching this video on [How to Get and Evaluate Startup Ideas](https://www.youtube.com/watch?v=Th8JoIan4dg)
+- In this video Jared talks about some key questions to ask about any startup idea:
 
 ---
 
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
-
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+# Are you the right person to solve this?
+- is this a field you have an expertise or insight?
 
 ---
 
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
-
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+# How big is the market?
+- Do a lot of people have this problem?
 
 ---
 
-![bg right 60%](https://icongr.am/simple/zeit.svg)
-
-## **[Vercel](https://vercel.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+# How acute is the problem?
+- Is it really painful and/or annoying?
+- How often do people encounter this problem?
+    - daily/weekly/monthly/yearly
+    - more often is better
 
 ---
 
-### <!--fit--> :ok_hand:
+# Do you have competition?
+- this might be a good sign!
+
+---
+# Do you want this?
+- You'll already have a first user... you!
+- Are there a lot of other people like you?
 
 ---
 
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
+# Did this recently become possible or necessary?
+- Is there something about the world that has changed recently that has created an opportunity?
+- new technology, law, problem, etc.
 
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
+---
+# Is this an idea you'd want to work on for years?
+- Are you passionate about this problem?
+- Do you have a personal connection?
+- Do you like your user?
 
-https://github.com/yhatt/marp-cli-example
+---
+
+# Is this a good idea space?
+- A good idea space means there are a lot of people with this problem willing to try your solution (and pay for it)
+- Your first MVP (minimum viable product) will probably be wrong
+- You will learn a lot by getting feedback from your users
+- If you're in a good idea space (high potential for success) you can iterate towards the optimal solution
+
+---
+
+Generally, building something you find interesting or in a field you have an expertise or insight is a good start!
+
+---
+
+Jared also talks about some ways to come up with ideas:
+
+- What are you good at?
+- Is there a problem you've personally encountered you can build a solution for?
+- Is there something you just wish existed?
+- Is there something about the world that has changed recently that has created an opportunity?
+- Go out and talk to people! ([User Feedback 🗣️](https://github.com/DPI-WE/user-feedback))
+- Is there a big industry that seems broken?
+
+---
+
+- Remember, we're just building fun learning projects. I don't expect you to change the world,... yet. 😅
+- I recommend you start writing down ideas you notice organically and rank them on these key questions. Something like thisLinks to an external site..
+
+---
+
+- Please submit your proposal(s) including answers/scores to some of these key questions. A link to a Google Sheet or other online spreadsheet is best.
+- Don't hesitate to reach out for a 1on1 with an instructor, TA, or fellow trainee and talk through what you are thinking.

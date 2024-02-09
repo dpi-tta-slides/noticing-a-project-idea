@@ -16,9 +16,47 @@ _paginate: false
 - Remember, the verb you want to be using with respect to ideas is *not* "think up" but "notice." https://paulgraham.com/startupideas.html
 
 ---
-<!-- IQ vs Point of View vs Knowledge -->
+# What is the most important trait for building a new idea?
 
+---
+
+# IQ?
+<!-- raw horsepower -->
+* raw mental horsepower
+* Leonardo Da Vinci (1452–1519)
+    * vast contributions to art, science, engineering, anatomy, and multiple other fields
+
+![](./assets/da-vinci-portrait.webp)
+
+---
+
+* Da Vinci's designs and concepts in engineering were far ahead of his time
+
+* Raw IQ is worth about as much as lead
+
+---
+
+# Knowledge? Skill?
+* knowledge of how to do something
+  * coding
+  * engineering
+  * design
+* have a skill, what now?
+* silver
+
+---
+
+# Point of View?
+<!-- unique experiences that shape your worldview -->
 <!-- POV is worth 100 IQ pointslin -->
+
+
+---
+
+
+Elon Musk - potential for technology to solve humanity's most significant challenges, such as sustainable energy and the colonization of Mars
+Steve Jobs - technology should be both intuitive and beautifully designed
+Judy Faulkner - importance of patient care and the role of technology in enhancing the quality and accessibility of healthcare
 ---
 
 <!-- TODO: river, mind's eye, culture, perspective -->

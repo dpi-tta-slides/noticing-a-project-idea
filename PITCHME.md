@@ -117,7 +117,7 @@ Raw IQ is worth about as much as "lead" without "know how"
 ---
 
 # Point of View?
-- Life experiences that shape your worldview -->
+- Life experiences that shape your worldview
 - Ability to see into the future and build what's missing
 - Point of View + Skill + IQ is worth 100+ IQ points, better than gold!
 
@@ -149,14 +149,15 @@ Judy Faulkner
 
 # Are you the right person to solve this?
 - Is this a field you have an expertise or insight?
-- Think about your previous experiences and work. You may be uniquely suited to identify, understand, and solve a problem.
+- Think about your previous experiences and work.
+- You may be uniquely suited to identify, understand, and solve a problem better than anyone else.
 
 ---
 
 # How big is the market?
 - Do a lot of people have this problem?
 - More is usually better
-- A lot of people have the problem OR a few people are willing to pay a lot to solve it
+- A lot of people have the problem **OR** a few people are willing to pay a lot to solve it
 <!-- pricing -->
 <!-- difficuly in finding users / customers -->
 
@@ -236,7 +237,7 @@ Jared also talks about some ways to come up with ideas:
 ---
 
 # Assignment
-- Please submit your proposal(s) including answers/scores/rankings to some of these key questions on a spreadsheet.
+- Please submit your proposal(s) including answers/scores/rankings to some of these key questions on a spreadsheet. [example](https://docs.google.com/spreadsheets/d/1jrgdMMt33lIGqXTEu8vE2fwLjoMkzyJAPlZuKLihvuQ/edit#gid=0)
 - Don't hesitate to reach out for a 1on1 with an instructor, TA, or fellow trainee and talk through what you are thinking.
 
 ---

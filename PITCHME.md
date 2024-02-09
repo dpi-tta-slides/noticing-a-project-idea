@@ -10,60 +10,135 @@ _paginate: false
 
 ---
 
-- Your proposal should answer 2 questions:
-    1. What pain point do you want to address?
-    2. How do you plan to solve it?
-- Remember, the verb you want to be using with respect to ideas is *not* "think up" but "notice." https://paulgraham.com/startupideas.html
+<!-- TODO: canyon river formation, mind's eye, culture, perspective -->
+
+![bg contain](./assets/grand-canyon-toroweap-point-sunrise.webp)
+
+---
+
+![bg contain](./assets/carving-out-a-canyon.png)
+
+---
+
+![bg contain](./assets/grand-canyon-horseshoe.jpg)
+
+---
+
+![bg contain](./assets/grand-canyon-floor.jpeg)
+
+---
+
+![bg contain](./assets/canyon-narrow.avif)
+
+<!-- maybe there's a better way? -->
+
+---
+
+# Gretzky Theory of Innovation
+
+![bg contain right](./assets/gretzky-game-graph.png)
+
+> "Skate to where the puck is going, not where it has been."
+> -- Wayne Gretzky
+
+---
+
+
+![bg right contain](./assets/dynabook.webp)
+
+<!-- what does this look like? -->
+<!-- what year do you think this is from? -->
+
+* What does this look like?
+* What year do you think this scene takes place?
+* This is a concept called "Dynabook" developed by Alan Kay while at Xerox PARC (1968-72)
+* Anything similar to this concept that would be hard to imagine living without? 😄
+<!-- Many similar concepts also appeared in science fiction books/film -->
 
 ---
 # What is the most important trait for building a new idea?
 
+<!-- IQ? Knowledge or Skill? -->
 ---
 
 # IQ?
 <!-- raw horsepower -->
-* raw mental horsepower
+* Raw mental horsepower
 * Leonardo Da Vinci (1452–1519)
-    * vast contributions to art, science, engineering, anatomy, and multiple other fields
+* Vast contributions to art, science, engineering, anatomy, and more!
 
-![](./assets/da-vinci-portrait.webp)
+![bg contain right](./assets/da-vinci-portrait.webp)
 
 ---
 
-* Da Vinci's designs and concepts in engineering were far ahead of his time
+![bg contain](./assets/da-vinci-mona-lisa.webp)
 
-* Raw IQ is worth about as much as lead
+---
+
+![bg contain](./assets/da-vinci-last-supper.webp)
+
+---
+
+Da Vinci's designs and concepts in engineering were far ahead of his time
+
+---
+
+![bg contain](./assets/da-vinci-flying-machine-1.jpg)
+
+---
+
+![bg contain](./assets/da-vinci-flying-machine-2.webp)
+
+---
+
+![bg contain](./assets/da-vinci-machine-gun.webp)
+
+---
+
+![bg contain](./assets/da-vinci-tank.webp)
+
+---
+
+Raw IQ is worth about as much as "lead" without "know how"
 
 ---
 
 # Knowledge? Skill?
-* knowledge of how to do something
-  * coding
-  * engineering
-  * design
-* have a skill, what now?
-* silver
+* Knowledge of how to do something
+  * Coding
+  * Engineering
+  * Design
+  * etc.
+* Have a skill, what now?
+* Having a skill is worth about as much as "silver"
+
+<!-- work for someone else or be a consultant -->
 
 ---
 
 # Point of View?
-<!-- unique experiences that shape your worldview -->
-<!-- POV is worth 100 IQ pointslin -->
-
-
----
-
-
-Elon Musk - potential for technology to solve humanity's most significant challenges, such as sustainable energy and the colonization of Mars
-Steve Jobs - technology should be both intuitive and beautifully designed
-Judy Faulkner - importance of patient care and the role of technology in enhancing the quality and accessibility of healthcare
----
-
-<!-- TODO: river, mind's eye, culture, perspective -->
+- Life experiences that shape your worldview -->
+- Ability to see into the future and build what's missing
+- Point of View + Skill + IQ is worth 100+ IQ points, better than gold!
 
 ---
 
-<!-- TODO: gretzky theory -->
+# Point of View
+
+Elon Musk
+- Potential for technology to solve humanity's most significant challenges, such as sustainable energy and the colonization of Mars
+
+---
+# Point of View
+
+Steve Jobs
+- Technology should be both intuitive and beautifully designed
+
+---
+# Point of View
+
+Judy Faulkner
+- Importance of patient care and the role of technology in enhancing the quality and accessibility of healthcare
 
 ---
 
@@ -80,7 +155,8 @@ Judy Faulkner - importance of patient care and the role of technology in enhanci
 
 # How big is the market?
 - Do a lot of people have this problem?
-- More is better. 
+- More is usually better
+- A lot of people have the problem OR a few people are willing to pay a lot to solve it
 <!-- pricing -->
 <!-- difficuly in finding users / customers -->
 
@@ -151,6 +227,19 @@ Jared also talks about some ways to come up with ideas:
 - Something like [this](https://docs.google.com/spreadsheets/d/1jrgdMMt33lIGqXTEu8vE2fwLjoMkzyJAPlZuKLihvuQ/edit#gid=0) (thanks Thierry!)
 
 ---
+
+- Your proposal should answer 2 questions:
+    1. What pain point do you want to address?
+    2. How do you plan to solve it?
+- Remember, the verb you want to be using with respect to ideas is *not* "think up" but "notice." https://paulgraham.com/startupideas.html
+
+---
+
 # Assignment
 - Please submit your proposal(s) including answers/scores/rankings to some of these key questions on a spreadsheet.
 - Don't hesitate to reach out for a 1on1 with an instructor, TA, or fellow trainee and talk through what you are thinking.
+
+---
+# Further Learning
+- [Alan Kay: How to invent the future](https://www.youtube.com/watch?v=1e8VZlPBx_0)
+

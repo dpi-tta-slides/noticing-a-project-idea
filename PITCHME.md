@@ -63,9 +63,8 @@ _paginate: false
 
 # IQ?
 <!-- raw horsepower -->
-* Raw mental horsepower
-* Leonardo Da Vinci (1452–1519)
-* Vast contributions to art, science, engineering, anatomy, and more!
+- Leonardo Da Vinci (1452–1519)
+- Vast contributions to art, science, engineering, anatomy, and more!
 
 ![bg contain right](./assets/da-vinci-portrait.webp)
 
@@ -99,6 +98,7 @@ Da Vinci's designs and concepts in engineering were far ahead of his time
 
 ---
 
+<!-- It's cool to come up with these designs, but Leonardo would not have been able to make these dreams reality -->
 Raw IQ is worth about as much as "lead" without "know how"
 
 ---
@@ -119,25 +119,19 @@ Raw IQ is worth about as much as "lead" without "know how"
 # Point of View?
 - Life experiences that shape your worldview
 - Ability to see into the future and build what's missing
-- Point of View + Skill + IQ is worth 100+ IQ points, better than gold!
+- **Point of View** + **Skill** + **IQ** is worth 100+ IQ points, better than gold!
 
 ---
 
 # Point of View
 
-Elon Musk
+## Elon Musk
 - Potential for technology to solve humanity's most significant challenges, such as sustainable energy and the colonization of Mars
 
----
-# Point of View
-
-Steve Jobs
+## Steve Jobs
 - Technology should be both intuitive and beautifully designed
 
----
-# Point of View
-
-Judy Faulkner
+## Judy Faulkner
 - Importance of patient care and the role of technology in enhancing the quality and accessibility of healthcare
 
 ---
@@ -182,7 +176,7 @@ Judy Faulkner
 # Do you want this?
 - You'll already have a first user... you!
 - Are there a lot of other people like you?
-
+<!-- would this make your job a lot easier / save time? -->
 ---
 
 # Did this recently become possible or necessary?
@@ -198,10 +192,11 @@ Judy Faulkner
 ---
 
 # Is this a good idea space?
-- A good idea space means there are a lot of people with this problem willing to try your solution (and pay for it)
-- Your first MVP (minimum viable product) will probably be wrong
-- You will learn a lot by getting feedback from your users
+- A good idea space has a lot of people with this problem willing to try your solution (and pay for it)
+- Your first version will probably be wrong
+- You will learn a lot by building, deploying and getting feedback from users
 - If you're in a good idea space (high potential for success) you can iterate towards the optimal solution
+- Check out our Requests for Projects doc for some good idea spaces
 
 ---
 
@@ -209,7 +204,7 @@ Generally, building something you find interesting or in a field you have an exp
 
 ---
 
-Jared also talks about some ways to come up with ideas:
+# More questions to consider
 
 - What are you good at?
 - Is there a problem you've personally encountered you can build a solution for?
@@ -220,7 +215,7 @@ Jared also talks about some ways to come up with ideas:
 
 ---
 
-- Remember, we're just building fun learning projects. I don't expect you to change the world,... yet. 😅
+- Remember, we're just building fun learning projects to build your portfolio. I don't expect you to change the world,... yet. 😅
 
 ---
 
@@ -230,8 +225,8 @@ Jared also talks about some ways to come up with ideas:
 ---
 
 - Your proposal should answer 2 questions:
-    1. What pain point do you want to address?
-    2. How do you plan to solve it?
+  1. What pain point do you want to address?
+  2. How do you plan to solve it?
 - Remember, the verb you want to be using with respect to ideas is *not* "think up" but "notice." https://paulgraham.com/startupideas.html
 
 ---

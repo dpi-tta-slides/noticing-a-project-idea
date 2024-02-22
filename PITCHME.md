@@ -196,7 +196,7 @@ Raw IQ is worth about as much as "lead" without "know how"
 - Your first version will probably be wrong
 - You will learn a lot by building, deploying and getting feedback from users
 - If you're in a good idea space (high potential for success) you can iterate towards the optimal solution
-- Check out our Requests for Projects doc for some good idea spaces
+- Check out our [Requests for Projects page](https://rfp.dpi.dev) for some good idea spaces
 
 ---
 

@@ -225,6 +225,8 @@ Generally, building something you find interesting or in a field you have an exp
 
 - I recommend you start writing down ideas you notice organically and rank them on these key questions.
 - Something like [this](https://docs.google.com/spreadsheets/d/1jrgdMMt33lIGqXTEu8vE2fwLjoMkzyJAPlZuKLihvuQ/edit#gid=0) (thanks Thierry!)
+- Focus on the **problem** / **pain point** you plan to address
+- Solutions are easy to change
 
 ---
 

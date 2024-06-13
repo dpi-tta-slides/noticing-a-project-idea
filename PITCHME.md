@@ -10,6 +10,10 @@ _paginate: false
 
 ---
 
+- [Steve Jobs Secrets of Life](https://www.youtube.com/watch?v=kYfNvmF0Bqw)
+
+---
+
 <!-- TODO: canyon river formation, mind's eye, culture, perspective -->
 
 ![bg contain](./assets/grand-canyon-toroweap-point-sunrise.webp)

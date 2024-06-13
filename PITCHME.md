@@ -236,6 +236,7 @@ Generally, building something you find interesting or in a field you have an exp
 - Don't hesitate to reach out for a 1on1 with an instructor, TA, or fellow trainee and talk through what you are thinking.
 
 ---
-# Further Learning
-- [Alan Kay: How to invent the future](https://www.youtube.com/watch?v=1e8VZlPBx_0)
 
+# Further Learning
+- [Steve Jobs Secrets of Life](https://www.youtube.com/watch?v=kYfNvmF0Bqw)
+- [Alan Kay: How to invent the future](https://www.youtube.com/watch?v=1e8VZlPBx_0)

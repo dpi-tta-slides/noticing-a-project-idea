@@ -224,22 +224,28 @@ Generally, building something you find interesting or in a field you have an exp
 ---
 
 - I recommend you start writing down ideas you notice organically and rank them on these key questions.
-- Something like [this](https://docs.google.com/spreadsheets/d/1jrgdMMt33lIGqXTEu8vE2fwLjoMkzyJAPlZuKLihvuQ/edit#gid=0) (thanks Thierry!)
+- Something like [this](https://docs.google.com/spreadsheets/d/1NbArEqqP3hkypg1e0G2TnCVIIbSrmaD9ixxFV_sFHNk/edit?usp=sharing)
 - Focus on the **problem** / **pain point** you plan to address
-- Solutions are easy to change
 
 ---
 
-- Your proposal should answer 2 questions:
+- Your proposal should answer these questions:
   1. What pain point do you want to address?
-  2. How do you plan to solve it?
+  2. Who has this problem?
+  3. What do people do to solve this problem today?
+  4. What are some good questions to ask these potential users?
 - Remember, the verb you want to be using with respect to ideas is *not* "think up" but "notice." https://paulgraham.com/startupideas.html
 
 ---
 
+- **Start with the problem**
+- From there you can start formulating a hypothesiss on how to approach solving this problem.
+- Solutions are easy to change, problems generally don't change.
+---
+
 # Assignment
-- Please submit your proposal(s) including answers/scores/rankings to some of these key questions on a spreadsheet. [example](https://docs.google.com/spreadsheets/d/1jrgdMMt33lIGqXTEu8vE2fwLjoMkzyJAPlZuKLihvuQ/edit#gid=0)
-- Don't hesitate to reach out for a 1on1 with an instructor, TA, or fellow trainee and talk through what you are thinking.
+- Please submit your proposal(s) including answers/scores/rankings to some of these key questions on a spreadsheet. [example](https://docs.google.com/spreadsheets/d/1NbArEqqP3hkypg1e0G2TnCVIIbSrmaD9ixxFV_sFHNk/edit?usp=sharing)
+- Please reach out for a 1on1 with an instructor, TA, or fellow trainee and talk through what your ideas.
 
 ---
 

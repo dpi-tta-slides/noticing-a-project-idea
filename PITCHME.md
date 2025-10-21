@@ -239,7 +239,7 @@ Generally, building something you find interesting or in a field you have an exp
 ---
 
 - **Start with the problem**
-- From there you can start formulating a hypothesiss on how to approach solving this problem.
+- From there you can start formulating a hypothesis on how to approach solving this problem.
 - Solutions are easy to change, problems generally don't change.
 ---
 
